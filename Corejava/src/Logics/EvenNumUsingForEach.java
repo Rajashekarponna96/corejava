@@ -25,7 +25,7 @@ public class EvenNumUsingForEach {
 List<Integer> collect = num.stream().filter(i->i%2==0).collect(Collectors.toList());
 System.out.println(collect);
 
-
+//iam comonting on this file enve and numpage line 28
 
 
 	
